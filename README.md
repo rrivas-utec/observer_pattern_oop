@@ -1,7 +1,7 @@
-# Observer Pattern - using clasic oriented object programming
+# Observer Pattern - using classic object-oriented programming
 
 ## Description
-This is a very basic version of the Observer Pattern [Wikipedia](https://en.wikipedia.org/wiki/Observer_pattern) that will be used to show some principles that are used in Reactive Programming [Wikipedia](https://en.wikipedia.org/wiki/Reactive_programming).
+This is a very basic version of the Observer Pattern [Wiki](https://en.wikipedia.org/wiki/Observer_pattern) that will be used to show some principles that are used in Reactive Programming [Wiki](https://en.wikipedia.org/wiki/Reactive_programming).
 
 ## Requirements to use this program
 * In order to use this program, it is necessary to check out if gcc & g++ versions are higher than version 8.  
