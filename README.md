@@ -1,5 +1,4 @@
-# Observer Pattern
-# using classic object-oriented programming
+# Observer Pattern  using classic object-oriented programming
 
 ## Description
 This is a very basic version of the Observer Pattern [Wiki](https://en.wikipedia.org/wiki/Observer_pattern) that will be used to show some principles that are used in Reactive Programming [Wiki](https://en.wikipedia.org/wiki/Reactive_programming).
