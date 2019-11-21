@@ -5,12 +5,15 @@ This is a very basic version of the Observer Pattern [Wikipedia](https://en.wiki
 
 ## Requirements to use this program
 * In order to use this program, it is necessary to check out if gcc & g++ versions are higher than version 8.  
-**NOTE:** This program was tested in Windows 10 using VS 2019 Compiler and Linux-Ubuntu using GCC/G++ version 9.
+
+**NOTE:** This program has been tested:
+  * Windows 10 using VS 2019 Compiler and 
+  * Linux-Ubuntu using GCC/G++ version 9.
 
 ## Steps to install GCC version 9 in Ubuntu
 Run the following command:
 ```bash
-> sudo apt install gcc-9
+sudo apt install gcc-9
 ```
 Verify gcc alternative versions:
 ```bash
@@ -27,7 +30,7 @@ sudo update-alternatives --verbose --config gcc
 ## Steps to install G++ version 9 in Ubuntu
 Run the following command:
 ```bash
-> sudo apt install g++-9
+sudo apt install g++-9
 ```
 Verify g++ alternative versions:
 ```bash
