@@ -7,7 +7,7 @@ This is a very basic version of the Observer Pattern [Wiki](https://en.wikipedia
 ## Requirements to use this program
 In order to use this program, it is necessary to check out if gcc & g++ versions are higher than version 8.  
 
-**NOTE:** This program has been tested:
+**NOTE:** This program has been tested in:
   * Windows 10 using VS 2019 Compiler and 
   * Linux-Ubuntu using GCC/G++ version 9.
 
