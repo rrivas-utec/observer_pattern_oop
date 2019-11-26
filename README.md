@@ -17,7 +17,7 @@ sudo apt install gcc-9
 ```
 Verify gcc alternative versions:
 ```bash
-sudo update_alternatives --verbose --display gcc
+sudo update-alternatives --verbose --display gcc
 ```
 If gcc version 9 has not been included as alternative, run following instruction
 ```bash
@@ -34,7 +34,7 @@ sudo apt install g++-9
 ```
 Verify g++ alternative versions:
 ```bash
-sudo update_alternatives --verbose --display g++
+sudo update-alternatives --verbose --display g++
 ```
 If g++ version 9 has not been included as alternative, run following instruction:
 ```bash
